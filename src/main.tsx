@@ -65,7 +65,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/react_phone-catalog',
+    basename: '/phone-catalog-2025',
   },
 );
 
